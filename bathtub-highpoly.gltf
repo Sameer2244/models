@@ -204,14 +204,8 @@
             "doubleSided" : true,
             "name" : "Material.007",
             "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    1
-                ],
-                "metallicFactor" : 0.3870967924594879,
-                "roughnessFactor" : 0.1827956885099411
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0
             }
         },
         {
@@ -240,12 +234,12 @@
             "name" : "Material.009",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.42002472281455994,
-                    0.42002472281455994,
-                    0.42002472281455994,
+                    0.5382238626480103,
+                    0.5131796598434448,
+                    0.4821217954158783,
                     1
                 ],
-                "metallicFactor" : 0.09574468433856964,
+                "metallicFactor" : 0,
                 "roughnessFactor" : 0
             }
         },
